@@ -11,8 +11,8 @@
       
     },
     {
-      "logo": "https://s3.schoolmedia.id/00-universal/sman3tanjungpinang.sch.id/logo/66b481afca407SMAN_3_TANJUNG_PINANG-removebg-preview.png",
-      "institution": "SMAN 3 Tanjung Pinang",
+      "logo": "./public/image/WhatsApp Image 2025-09-28 at 15.43.36.jpeg",
+      "institution": "SMA Negeri 2 Sampit",
       "degree": "Science"
       
     }
@@ -20,8 +20,8 @@
   "experience": [
     {
       "logo": "https://www.logisteed.com/assets/img/profile/img_policy_01.webp",
-      "company": "PT. Berdiri Matahari Logistik (Logisteed)",
-      "position": "IT Officer",
+      "company": "AKAY GROUP",
+      "position": "Owner",
       "period": "Februari 2024 - Present",
       "responsibilities": [
         "Developed web-based HRIS and Procurement systems with integrated approval workflows.",
@@ -33,9 +33,9 @@
     },
     {
       "logo": "https://media.licdn.com/dms/image/v2/C560BAQEiWki2bWPvRQ/company-logo_200_200/company-logo_200_200/0/1679380752392?e=2147483647&v=beta&t=VpbWOJAoGTKhil5iXRttIVu9wICl2IEKnyRN8NCrrtU",
-      "company": "PT. Daidan Utama",
+      "company": "PT. JNDTECH BERKAH BERSAMA",
       "position": "IT Staff",
-      "period": "January 2023 - January 2024",
+      "period": "January 2018 - January 2024",
       "responsibilities": [
         "Developed integrated web-based broker operation system.",
         "Manage IT Equiment Hardware software.",
