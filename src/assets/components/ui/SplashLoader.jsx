@@ -16,7 +16,7 @@ export default function SplashLoader({ onFinish }) {
       >
         {/* Path huruf L */}
         <motion.path
-          d="M40 20 L100 180 L160 20"
+          d="M40 20 L40 180 L140 180"
           fill="transparent"
           stroke="url(#gradient)"
           strokeWidth="14"
