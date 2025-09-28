@@ -13,9 +13,9 @@ const contactVariants = {
 
 function ContactSection() {
   const contacts = [
-    { icon: <FiMail />, title: "Email", info: "varellsiregar14@gmail.com" },
-    { icon: <FiPhone />, title: "Phone", info: "+62 895-4010-16483" },
-    { icon: <FiMapPin />, title: "Location", info: "Jakarta, Indonesia" },
+    { icon: <FiMail />, title: "Email", info: "lubis@kentu.my.id" },
+    { icon: <FiPhone />, title: "Phone", info: "+62 822-1331-6764" },
+    { icon: <FiMapPin />, title: "Location", info: "Surabaya, Indonesia" },
   ];
 
   const [isMobile, setIsMobile] = useState(false);
