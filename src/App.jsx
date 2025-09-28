@@ -11,6 +11,7 @@ import FloatingNavbar from './assets/components/ui/FloatingNavbar';
 import AboutSection from './assets/components/sections/About/AboutSection';
 import EducationExperienceSection from './assets/components/sections/EducationExperience/EducationExperienceSection';
 import ContactSection from './assets/components/sections/Contact/ContactSection';
+import { Analytics } from "@vercel/analytics/react";
 
 function App() {
   const [showSplash, setShowSplash] = useState(true);
@@ -29,6 +30,7 @@ function App() {
             <EducationExperienceSection />
             <TechStackSection />
             <ProjectsSection />
+             <Analytics />
             <ContactSection />
           </div>
           <ScrollProgressBar />
