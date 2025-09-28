@@ -30,7 +30,7 @@ export default function TiltedCard({
       { text: "const", className: "text-purple-400" },
       { text: " myName", className: "text-blue-300" },
       { text: " = ", className: "text-gray-200" },
-      { text: '"Varell";', className: "text-green-400" },
+      { text: '"Lubis";', className: "text-green-400" },
     ],
     [{ text: '"Have a great day! :))"', className: "text-yellow-400" }],
   ];
