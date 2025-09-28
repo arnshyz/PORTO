@@ -24,7 +24,7 @@ export default function SplashLoader({ onFinish }) {
           strokeLinejoin="round"
           initial={{ pathLength: 0 }}
           animate={{ pathLength: 1 }}
-          transition={{ duration: 2.5, ease: "easeInOut" }}
+          transition={{ duration: 3.5, ease: "easeInOut" }}
         />
         <defs>
           <linearGradient id="gradient" x1="0" y1="0" x2="1" y2="1">
