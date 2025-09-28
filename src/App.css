@@ -1,0 +1,30 @@
+@import 'tailwindcss';
+
+.animated-gradient-text {
+  background: linear-gradient(to right, #d3acf9, #7c00d4, #c272fc, #6c00f1);
+  background-size: 200% auto;
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  color: transparent;
+  animation: gradient-animation 3s ease infinite alternate;
+}
+
+@keyframes gradient-animation {
+  0% {
+    background-position: 0% 50%;
+  }
+  100% {
+    background-position: 100% 50%;
+  }
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+html, body, #root {
+  background-color: #000; /* biar default hitam */
+  margin: 0;
+  padding: 0;
+}

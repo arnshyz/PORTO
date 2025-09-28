@@ -1,0 +1,66 @@
+{
+  "educationTitle": "Pendidikan",
+  "experienceTitle": "Pengalaman",
+  "skillsTitle": "Keahlian",
+  "education": [
+    {
+      "logo": "https://keystoneacademic-res.cloudinary.com/image/upload/c_pad,w_640,h_304/dpr_auto/f_auto/q_auto/v1/element/14/143687_logo_unikom.png",
+      "institution": "Universitas Otodidak Indonesia",
+      "degree": "Sarjana Ilmu Otodidak",
+      "period": "Teknik Otodidak"
+      
+    },
+    {
+      "logo": "https://s3.schoolmedia.id/00-universal/sman3tanjungpinang.sch.id/logo/66b481afca407SMAN_3_TANJUNG_PINANG-removebg-preview.png",
+      "institution": "SMA Negeri 2 Sampit",
+      "degree": "Ilmpu Pengetahuan Alam"
+      
+    }
+  ],
+  "experience": [
+    {
+      "logo": "https://www.logisteed.com/assets/img/profile/img_policy_01.webp",
+      "company": "PT. JNDTECH BERKAH BERSAMA",
+      "position": "Serabutan",
+      "period": "Februari 2018 - 2024",
+      "responsibilities": [
+        "Membuat sistem HRIS dan Procurement berbasis web dengan alur persetujuan terintegrasi.",
+        "Mengelola aset dan infrastruktur IT.",
+        "Mengadministrasi server dan jaringan perusahaan.",
+        "Mengonfigurasi layanan Active Directory dan DHCP.",
+        "Mengonfigurasi folder bersama dengan pengaturan akses."
+      ]
+    },
+    {
+      "logo": "https://media.licdn.com/dms/image/v2/C560BAQEiWki2bWPvRQ/company-logo_200_200/company-logo_200_200/0/1679380752392?e=2147483647&v=beta&t=VpbWOJAoGTKhil5iXRttIVu9wICl2IEKnyRN8NCrrtU",
+      "company": "JND Footwear",
+      "position": "Owner",
+      "period": "Agustus 2024 - Present",
+      "responsibilities": [
+        "Bakulan Sandal",
+        "Bakulan Alquran",
+        "Bakulan Apa Saja",
+        "Mengelola infrastruktur jaringan perusahaan dan menerapkan kebijakan bandwidth untuk seluruh perangkat terhubung.",
+        "Mengonfigurasi layanan Active Directory dan DHCP."
+      ]
+    }
+  ],
+  "skills": [
+  "Komunikasi",
+  "Pemecahan Masalah",
+  "Manajemen Waktu",
+  "Kerja Tim",
+  "Pekerja Keras",
+  "Laravel",
+  "PHP",
+  "HTML",
+  "CSS",
+  "MySQL",
+  "Git",
+  "UI/UX Design",
+  "IT Support",
+  "Network Administration",
+  "Web Development"
+]
+
+}

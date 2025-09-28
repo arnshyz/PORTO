@@ -1,0 +1,66 @@
+{
+  "educationTitle": "Education",
+  "experienceTitle": "Experience",
+  "skillsTitle": "Skills",
+  "education": [
+    {
+      "logo": "https://keystoneacademic-res.cloudinary.com/image/upload/c_pad,w_640,h_304/dpr_auto/f_auto/q_auto/v1/element/14/143687_logo_unikom.png",
+      "institution": "Indonesian Computer University",
+      "degree": "Bachelor’s Degree in Computer Science",
+      "period": "Informatics Engineering"
+      
+    },
+    {
+      "logo": "https://s3.schoolmedia.id/00-universal/sman3tanjungpinang.sch.id/logo/66b481afca407SMAN_3_TANJUNG_PINANG-removebg-preview.png",
+      "institution": "SMAN 3 Tanjung Pinang",
+      "degree": "Science"
+      
+    }
+  ],
+  "experience": [
+    {
+      "logo": "https://www.logisteed.com/assets/img/profile/img_policy_01.webp",
+      "company": "PT. Berdiri Matahari Logistik (Logisteed)",
+      "position": "IT Officer",
+      "period": "Februari 2024 - Present",
+      "responsibilities": [
+        "Developed web-based HRIS and Procurement systems with integrated approval workflows.",
+        "Managed IT assets and infrastructure.",
+        "Administered servers and corporate networks.",
+        "Configured Active Directory and DHCP services.",
+        "Configured shared folders with access controls."
+      ]
+    },
+    {
+      "logo": "https://media.licdn.com/dms/image/v2/C560BAQEiWki2bWPvRQ/company-logo_200_200/company-logo_200_200/0/1679380752392?e=2147483647&v=beta&t=VpbWOJAoGTKhil5iXRttIVu9wICl2IEKnyRN8NCrrtU",
+      "company": "PT. Daidan Utama",
+      "position": "IT Staff",
+      "period": "January 2023 - January 2024",
+      "responsibilities": [
+        "Developed integrated web-based broker operation system.",
+        "Manage IT Equiment Hardware software.",
+        "Configured shared folders with access controls.",
+        "Managed corporate network infrastructure and enforced bandwidth policies for all connected devices.",
+        "Configured Active Directory and DHCP services."
+      ]
+    }
+  ],
+  "skills": [
+  "Communication",
+  "Problem Solving Skills",
+  "Time Management",
+  "Team Work",
+  "Hard Worker",
+  "Laravel",
+  "PHP",
+  "HTML",
+  "CSS",
+  "MySQL",
+  "Git",
+  "UI/UX Design",
+  "IT Support",
+  "Network Administration",
+  "Web Development"
+]
+
+}
