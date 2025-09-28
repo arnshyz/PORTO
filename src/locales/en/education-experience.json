@@ -4,14 +4,14 @@
   "skillsTitle": "Skills",
   "education": [
     {
-      "logo": "https://keystoneacademic-res.cloudinary.com/image/upload/c_pad,w_640,h_304/dpr_auto/f_auto/q_auto/v1/element/14/143687_logo_unikom.png",
+      "logo": "https://cdn.pixabay.com/photo/2012/04/15/18/49/flag-34884_1280.png",
       "institution": "Indonesian Autodidactic University",
       "degree": "Bachelor’s Degree in Computer Science",
       "period": "Informatics Engineering"
       
     },
     {
-      "logo": "./public/image/WhatsApp Image 2025-09-28 at 15.43.36.jpeg",
+      "logo": "https://github.com/arnshyz/PORTO/blob/1ed7c45861ad63e5860426cde43c2b4443d6e6ef/public/images/WhatsApp%20Image%202025-09-28%20at%2015.43.36.jpeg",
       "institution": "SMA Negeri 2 Sampit",
       "degree": "Science"
       
@@ -19,7 +19,7 @@
   ],
   "experience": [
     {
-      "logo": "https://www.logisteed.com/assets/img/profile/img_policy_01.webp",
+      "logo": "https://github.com/arnshyz/PORTO/blob/1ed7c45861ad63e5860426cde43c2b4443d6e6ef/public/images/2.png",
       "company": "AKAY GROUP",
       "position": "Owner",
       "period": "Februari 2024 - Present",
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "logo": "https://media.licdn.com/dms/image/v2/C560BAQEiWki2bWPvRQ/company-logo_200_200/company-logo_200_200/0/1679380752392?e=2147483647&v=beta&t=VpbWOJAoGTKhil5iXRttIVu9wICl2IEKnyRN8NCrrtU",
+      "logo": "https://mms.img.susercontent.com/id-11134004-7r98u-lt4v3bp5vh4p3d",
       "company": "PT. JNDTECH BERKAH BERSAMA",
       "position": "IT Staff",
       "period": "January 2018 - January 2024",
