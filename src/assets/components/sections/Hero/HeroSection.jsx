@@ -56,8 +56,8 @@ function HeroSection() {
               {t('paragraph')}
             </motion.p>
             <motion.a
-              href="/images/varell.pdf"
-              download="varell.pdf"
+              href="https://wa.me/wongsepele"
+              download="WA O"
               className="px-4 py-2 rounded-full bg-transparent font-bold transition-all border-2 border-purple-700 text-purple-700 hover:bg-purple-700 hover:text-white"
               variants={fadeInUpVariants}
             >
