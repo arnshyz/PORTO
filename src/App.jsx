@@ -12,6 +12,7 @@ import AboutSection from './assets/components/sections/About/AboutSection';
 import EducationExperienceSection from './assets/components/sections/EducationExperience/EducationExperienceSection';
 import ContactSection from './assets/components/sections/Contact/ContactSection';
 import { Analytics } from "@vercel/analytics/react";
+import { SpeedInsights } from "@vercel/speed-insights/react";
 
 function App() {
   const [showSplash, setShowSplash] = useState(true);
@@ -31,6 +32,7 @@ function App() {
             <TechStackSection />
             <ProjectsSection />
              <Analytics />
+            <SpeedInsights />
             <ContactSection />
           </div>
           <ScrollProgressBar />
