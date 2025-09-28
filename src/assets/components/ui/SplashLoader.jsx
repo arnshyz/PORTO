@@ -14,7 +14,7 @@ export default function SplashLoader({ onFinish }) {
         viewBox="0 0 200 200"
         className="w-40 h-40"
       >
-        {/* Path huruf V */}
+        {/* Path huruf L */}
         <motion.path
           d="M40 20 L100 180 L160 20"
           fill="transparent"
