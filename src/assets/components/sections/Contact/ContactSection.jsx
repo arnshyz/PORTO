@@ -13,7 +13,7 @@ const contactVariants = {
 
 function ContactSection() {
   const contacts = [
-    { icon: <FiMail />, title: "Email", info: "lubis@kentu.my.id" },
+    { icon: <FiMail />, title: "Email", info: "lubis@akay.web.id" },
     { icon: <FiPhone />, title: "Phone", info: "+62 822-1331-6764" },
     { icon: <FiMapPin />, title: "Location", info: "Surabaya, Indonesia" },
   ];
